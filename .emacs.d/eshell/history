@@ -1,0 +1,28 @@
+ls
+pwd
+chmod
+chmod --help
+wget -O skype-install.deb http://www.skype.com/go/getskype-linux-deb-64
+curl
+curl -O skype-install.deb http://www.skype.com/go/getskype-linux-deb-64
+wget skype-install.deb http://www.skype.com/go/getskype-linux-deb-64
+ls
+pwd
+ls
+ls
+ls -la
+ping 8.8.8.8
+ls
+pwd
+ls
+chmod
+chmod --hep
+chmod --help
+ls
+ifconfig
+go
+start
+http://google.se
+run
+initiate
+bash
