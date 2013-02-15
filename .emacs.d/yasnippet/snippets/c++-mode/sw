@@ -1,0 +1,27 @@
+# name: switch ...
+# key: sw
+# --
+switch(${1:Variable})
+{
+    case ${2:0}:
+	{
+    
+	}
+	break;
+	case ${3:1}:
+	{
+    
+	}
+	break;
+	case ${4:2}:
+	{
+    
+	}
+	break;
+	$0
+	default:
+	{
+	
+	}
+	break;
+}

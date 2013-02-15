@@ -1,0 +1,11 @@
+# name: try/catch ... { ... }
+# key: try
+# --
+try
+{
+    $0
+}
+catch(${1:exception& e})
+{
+    std::cout << "Exception: " << e.what();
+}

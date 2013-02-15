@@ -1,0 +1,12 @@
+# name: default template ...
+# key: def
+# --
+#include <iostream>
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+    $0
+    return 0;
+}
